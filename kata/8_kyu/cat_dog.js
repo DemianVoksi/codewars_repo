@@ -1,16 +1,13 @@
-// 8 kyu
-
-// Javascript
-
-// Cat years, Dog years
-
-// By: dinglemouse
-
-// I have a cat and a dog.
-
-// I got them at the same time as kitten/puppy.
-// That was humanYears years ago.
-// Return their respective ages now as [humanYears,catYears,dogYears]
+/*
+8 kyu
+Javascript
+Cat years, Dog years
+By: dinglemouse
+ 
+I have a cat and a dog. I got them at the same time as kitten/puppy.
+That was humanYears years ago. Return their respective ages now as 
+[humanYears,catYears,dogYears]
+*/
 
 var humanYearsCatYearsDogYears = function(humanYears) {
     let catYears = 0;

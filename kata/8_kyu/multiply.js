@@ -1,12 +1,11 @@
-// 8 kyu
+/* 
+8 kyu
+Multiply
+Javascript
+By: ?
 
-// Multiply
-
-// Javascript
-
-// By: ?
-
-// This code does not execute properly. Try to figure out why.
+This code does not execute properly. Try to figure out why.
+*/
 
 function multiply(a, b) {
   var c = a * b;
