@@ -1,8 +1,9 @@
+.git/
+
 *~
 *#
 *'
 
-.git/
-kata/*~
-kata/*#
-kata/*'
+python/*~
+python/*#
+python/*'
